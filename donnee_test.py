@@ -4,6 +4,9 @@ Created on Fri Jun 26 10:47:24 2020
 
 @author: Andréa WAUTERS et Narjisse LASRI
 """
+
+#Sequence de données générées aléatoirement pour tester le perceptron
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_classification
