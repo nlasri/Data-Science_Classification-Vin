@@ -5,6 +5,7 @@ Created on Fri Jun 26 10:47:24 2020
 @author: Andréa WAUTERS et Narjisse LASRI
 """
 
+#Fonctions crees pour classifier les vins
 
 import pandas as pd
 import numpy as np
