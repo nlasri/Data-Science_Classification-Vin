@@ -5,6 +5,8 @@ Created on Fri Jun 26 10:47:24 2020
 @author: Andréa WAUTERS et Narjisse LASRI
 """
 
+#Classification des vins
+
 import pandas as pd
 import vin as pj
 import perceptron
